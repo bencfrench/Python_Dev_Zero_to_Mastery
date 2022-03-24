@@ -1,4 +1,4 @@
-# ZTM_Python_Basics
+# ZTM_Python_Basics_Part 1
 Notes from Zero to Mastery's Python Developer program.
 Basics Part 1
 
